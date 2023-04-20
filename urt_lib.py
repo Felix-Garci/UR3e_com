@@ -4,8 +4,8 @@ import sys
 sys.path.append('..')   
 import logging
 import time
-from examples import rtde_config as rtde_config
-from examples import rtde as rtde
+import rtde_config as rtde_config
+import rtde as rtde
 import keyboard
 from math import sqrt
 
